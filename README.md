@@ -5,12 +5,12 @@ This modpack is for the hughchungus server. It features 15 interesting mods to e
 
 ## Installation
 - Navigate to the Valheim game folder
--- From the Steam Library, right-click Valheim
--- Hover over `Manage`, click `Browse local files`
+	- From the Steam Library, right-click Valheim
+	- Hover over `Manage`, click `Browse local files`
 - Copy the hughchungusModpack into the Valheim game folder
--- Open the `hughchungusModpack/modpack` folder
--- Copy all files into the Valheim game folder
--- If prompted during the copying, click `Replace All`
+	- Open the `hughchungusModpack/modpack` folder
+	- Copy all files into the Valheim game folder
+	- If prompted during the copying, click `Replace All`
 
 ## Mod List
 [ValheimPlus](https://valheim.thunderstore.io/package/ValheimPlus/ValheimPlus/)
