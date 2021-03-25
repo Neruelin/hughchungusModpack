@@ -11,7 +11,7 @@ This modpack is for the hughchungus server. It features 15 interesting mods to e
   - Hover over `Manage`, click `Browse local files`
 - Copy the hughchungusModpack into the Valheim game folder
   - Open the `hughchungusModpack/modpack` folder
-  - Copy all files into the Valheim game folder
+  - Copy all files from the `hughchungusModpack/modpack` into the Valheim game folder
   - If prompted during the copying, click `Replace All`
 
 ## Mod List
