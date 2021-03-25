@@ -31,3 +31,4 @@ This modpack is for the hughchungus server. It features 15 interesting mods to e
 [Jam v1.0.2](https://valheim.thunderstore.io/package/RandyKnapp/Jam/)
 [Creature Level And Loot Control v2.5.1](https://valheim.thunderstore.io/package/Smoothbrain/CreatureLevelAndLootControl/)
 [Trash Items v1.2.2](https://valheim.thunderstore.io/package/virtuaCode/TrashItems/)
+[Farm Grid v0.2.0](https://valheim.thunderstore.io/package/Nexus/FarmGrid/)
